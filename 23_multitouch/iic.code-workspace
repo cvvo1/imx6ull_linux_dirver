@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"map.h": "c",
+			"ap3216creg.h": "c",
+			"module.h": "c",
+			"touchscreen.h": "c",
+			"interrupt.h": "c",
+			"edt-ft5x06.h": "c",
+			"of_gpio.h": "c"
+		}
+	}
+}

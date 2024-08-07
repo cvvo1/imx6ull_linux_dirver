@@ -1,0 +1,1 @@
+cmd_/home/cvvo/linux/IMX6ULL/linux_Drivers/21_iic/ap3216c.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/cvvo/linux/IMX6ULL/linux_Drivers/21_iic/ap3216c.ko /home/cvvo/linux/IMX6ULL/linux_Drivers/21_iic/ap3216c.o /home/cvvo/linux/IMX6ULL/linux_Drivers/21_iic/ap3216c.mod.o

@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"spi.h": "c",
+			"cdev.h": "c",
+			"iio.h": "c"
+		}
+	}
+}

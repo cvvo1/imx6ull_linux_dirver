@@ -1,0 +1,1 @@
+cmd_/home/cvvo/linux/IMX6ULL/linux_Drivers/7_atomic/atomic.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/cvvo/linux/IMX6ULL/linux_Drivers/7_atomic/atomic.ko /home/cvvo/linux/IMX6ULL/linux_Drivers/7_atomic/atomic.o /home/cvvo/linux/IMX6ULL/linux_Drivers/7_atomic/atomic.mod.o

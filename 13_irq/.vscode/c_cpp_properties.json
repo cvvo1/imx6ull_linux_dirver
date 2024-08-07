@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/cvvo/linux/IMX6ULL/linux_kernel/linux-imx-rel_imx_4.1.15_2.1.0_ga_change/include", 
+                "/home/cvvo/linux/IMX6ULL/linux_kernel/linux-imx-rel_imx_4.1.15_2.1.0_ga_change/arch/arm/include", 
+                "/home/cvvo/linux/IMX6ULL/linux_kernel/linux-imx-rel_imx_4.1.15_2.1.0_ga_change/arch/arm/include/generated/"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}

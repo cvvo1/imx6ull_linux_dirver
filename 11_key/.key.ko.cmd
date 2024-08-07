@@ -1,0 +1,1 @@
+cmd_/home/cvvo/linux/IMX6ULL/linux_Drivers/11_key/key.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/cvvo/linux/IMX6ULL/linux_Drivers/11_key/key.ko /home/cvvo/linux/IMX6ULL/linux_Drivers/11_key/key.o /home/cvvo/linux/IMX6ULL/linux_Drivers/11_key/key.mod.o

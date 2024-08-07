@@ -1,0 +1,1 @@
+cmd_/home/cvvo/linux/IMX6ULL/linux_Drivers/27_iio_spi/icm20608.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/cvvo/linux/IMX6ULL/linux_Drivers/27_iio_spi/icm20608.ko /home/cvvo/linux/IMX6ULL/linux_Drivers/27_iio_spi/icm20608.o /home/cvvo/linux/IMX6ULL/linux_Drivers/27_iio_spi/icm20608.mod.o

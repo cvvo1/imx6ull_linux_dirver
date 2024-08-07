@@ -1,0 +1,1 @@
+cmd_/home/cvvo/linux/IMX6ULL/linux_Drivers/6_beep/beep.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/cvvo/linux/IMX6ULL/linux_Drivers/6_beep/beep.ko /home/cvvo/linux/IMX6ULL/linux_Drivers/6_beep/beep.o /home/cvvo/linux/IMX6ULL/linux_Drivers/6_beep/beep.mod.o

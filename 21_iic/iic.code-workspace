@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"map.h": "c",
+			"ap3216creg.h": "c"
+		}
+	}
+}
